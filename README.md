@@ -1,4 +1,4 @@
-# vue2-homework-part1
+# vue2-homework-part2
 
 ## Задание
 
